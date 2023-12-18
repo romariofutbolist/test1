@@ -2,9 +2,9 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        /*
         int a = 5;
         int b = 6;
-        /*
         System.out.println("До обмена: a = " + a + ", b = " + b);
 
         a = a + b;
